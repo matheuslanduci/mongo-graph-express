@@ -1,5 +1,5 @@
 ## Mongo-Graph-Express
-**English**
+### English
 Backend application made in NodeJS.
 Using Express, GraphQL, MongoDB. Using Sucrase as development dependency to keep a good syntax.
 
@@ -22,7 +22,7 @@ Then, if you want to create a production build:
 **How to query with GraphQL?**
 Follow up this tutorial:  https://github.com/matheuslanduci/mongo-graph-express/blob/master/TUTORIAL.md
 
-**Português**
+### Português
 Aplicativo Backend feito em NodeJS. 
 Utilizando Express, GraphQL, MongoDB. Utilizando Sucrase como dependência de desenvolvimento para deixar uma boa sintaxe.
 
